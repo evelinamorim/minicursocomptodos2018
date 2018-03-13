@@ -23,10 +23,10 @@ acordo com a metodologia descrita acima.
 
 **grad_students_tweets.zip**: Esse arquivo contém quatro campos, a saber: 
 
-> numero_da_linha
-> data_tweet
-> id_tweet
-> texto_tweet
+> numero_da_linha,
+> data_tweet,
+> id_tweet,
+> texto_tweet,
 > nome_do_usuario 
 
 ## Apresentação
