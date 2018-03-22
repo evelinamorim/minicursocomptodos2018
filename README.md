@@ -38,3 +38,4 @@ O arquivo pdf contém a apresentação completa dada no tutorial.
 A prática consiste em plotar um gráfico de *embeddings* de tweets utilizando o algoritmo TSNE. Ela 
 está codificada em python no arquivo pratica.py. Para utilizar, basta ter um modelo word2vec treinado 
 em tweets_clean.txt e o arquivo grad_students_tweets.zip descompactado.
+# meetup-MMLBH
